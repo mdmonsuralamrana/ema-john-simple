@@ -1,0 +1,9 @@
+.error-style{
+    margin-top: 50px;
+    padding: 20px;
+    text-align: center;
+    color: red;
+}
+.error-style h3{
+    margin-top: 30px;
+}
